@@ -10,6 +10,7 @@ langchain-openai
 langchain-community
 langchain-core
 langchain-google-genai
+langchain_huggingface
 
 # Vector Store
 faiss-cpu
