@@ -38,3 +38,9 @@ lxml
 # Optional (for Jupyter development)
 notebook
 ipykernel
+
+#transformers ,pytoch is required for HuggingFace models
+transformers
+torch
+torchvision
+torchaudio
